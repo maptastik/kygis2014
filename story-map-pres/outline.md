@@ -89,11 +89,27 @@ There's a lot of data out there. As both the quantitative and qualitative observ
 
 There are two things that are interesting here. First, Yau implies that information, the result of highlighting and  interpreting data, is what is actually interesting. Second, there is demand for information. Data visualization works with that former to meet the latter. But as discussions on the use of story in data visualization seem to indicate, displaying information alone is not enough to cut through the clutter of media with which we're inundated everyday. Information, visualized or otherwise, doesn't immediately answer the question "Who cares?" Sure, we can pull information from data, but that still doesn't address why that information matters and, crucially, why it matters to the person consuming that information. The data visualization community has been discussing how story might help clarify questions of relevance.
 
+- There's an impulse towards finding stories (Cherny; Cherny)
+	- [Cherny](http://blogger.ghostweather.com/2014/05/data-characters-in-search-of-author.html)
+	> Our brains look for stories and remember stories
+	- [Cherny](http://blogger.ghostweather.com/2014/03/implied-stories-and-data-vis.html)
+	> Even very simple stories, whatever the discourse form, rely on the reader filling in a lot of invisible holes. 
+- Data & information are not stories, but we use stories to reason through them (Twigg)
+	- [Twigg](http://storiesthroughdata.blogs.lincoln.ac.uk/2013/10/12/data-communicators-where-is-innovation-happening/)
+	> [P]eople reason through stories. Stories move people, give them a reason to believe or not, a reason to do something or not, to take this turn or that...Yet as a concept story jars with data communication because data are not stories. Data are cold hard facts. But, critically, data *have* story potential... 
+- Helps the audience come to valid inferences (Diakopoulos; Citraro; Cherny; Yau)
+	- Yau
+	> Your job as a data designer is to communicate what you know to your audience. They most likely didn't look at the data, so they might not see the same thing that you see if there's no explanation or setup.
+	- [Cherny](http://blogger.ghostweather.com/2014/05/data-characters-in-search-of-author.html)
+	> Without a lot of supporting explanation (or performance, in the case of Hans Rosling), I don't believe a visualization can tell you the "whole story," in terms of who, what, when, where, why, and how; a visualization usually implies only a few of those, and our brains leap to conclusions the author of the visualization may or may not expect.
+	- [Diakopoulos](http://towcenter.org/blog/storytelling-with-data-visualization-context-is-king/)
+	> Text provides that vital bit of context layered over the data that helps the audience come to a valid interpretation of what it really means...In addition to adding an angle and story to the piece, such contextual journalism helps flesh out what the data means and guides the reader’s interpretation towards valid inferences from the data.
+	- [Citraro](http://www.periscopic.com/#/news/a-framework-for-talking-about-data-narration)
+	> Using data as a narrative device to guide visitors through insights is convenient, and it makes use of a familiar convention: conversation.   
+- "Storylistening trance" - or - engagement - emootional connection(Sturm; Kosara; Cairo)
+- Portability (Kosara & Mackinlay)
 
-Robert Kosara has suggested that stories work to guide people through the information, making and connecting stops along the way so they can see why the information matters at all.
-
-Dino Citraro offers that using narrative can push people towards the over-arching message that the author intends to communicate. If the reader decides that they do care about the information being presented, adding a narrative can help insure that they receive the message that the author meant to convey.
-
+Krzywinski and Kosara 
 
 ## How can we rethink story maps to insure they tell a story ##
 - Focus on story first!
