@@ -36,7 +36,7 @@ Answers the questions:
 - Why?
 - How?
 
-But in reseaching for the presentation I discovered that subject of story is being pretty heavily discussed in the the closely related field of data visualization field. While lots of attempts at defining story have arisen out of those discussions, I think Robert Kosara, a well respected researcher and practitioner of data visualization offers a fitting characterization of story that is well suited for evaluating the "storyness" of a story map.
+But in researching for the presentation I discovered that subject of story is being pretty heavily discussed in the the closely related field of data visualization field. While lots of attempts at defining story have arisen out of those discussions, I think Robert Kosara, a well respected researcher and practitioner of data visualization offers a fitting characterization of story that is well suited for evaluating the "storyness" of a story map.
 
 It contains:
 
@@ -75,34 +75,9 @@ In summary, a story map consists of:
 - data
 - other information
 
-How does this play out? ESRI splits categorizes their platform into three broad types templates: Sequential, Place-based Narratives, Curated List of POIs, and Comparing Two or More Maps. I suggest we engage in some side-by-side evaluation of some examples from the ESRI story map gallery to see how these story maps evaluate as story maps under ESRI's definiton and a presence of story under Kosara's definition of story. 
-show some examples from storied to least storied [Story Map app list](http://storymaps.arcgis.com/en/app-list/ "Story Map app list")
+By their own description, pretty much anything that is made with the Story Map platform would qualify as a story map. But it's curious that there is no mention of story or narrative within these definitions that they provide. In fact it's only once you get into their guide for making a story map that there is some indication of how ESRI defines "story." In Step 1 in "6 Steps to Publishing your Story Map," the story mapper is asked "What is the story you're trying to tell?" And critically, an additional consideration is included: "What are the essential components of your story?" Ah, now we're getting close! Recall earlier that we were working with a definition of story that was made of three components: facts, a narrative path through the facts, and an interpretation of those facts. Here ESRI suggests that these essential components include "maps, photos, videos, text." Story, in ESRI's conception, seems to simply refer to media that can provide context. If we try to fit story as understood by ESRI to our more general definition of story, it's possible to end up with a story map that, in the end, may only contain facts, but be without any narrative structure or much in the way of interpretation of the facts by the author. Indeed ESRI is suggesting an entirely different understanding of what a story is! And so, story simply equals content. And if that content is organized around a map, it is a story map. Since that's more or less what ESRI's Story Map platform guides you to do, essentially everything that comes from the platform is a story map.
 
-We can see more clearly what ESRI means by story map by looking at their story map templates. 
-
-- Sequential, Place-based Narratives
-	- [![Out of the office trip(NZ)](http://www.arcgis.com/sharing/content/items/d08167a71752468a84d8c56617aa3c7f/info/thumbnail/cover_pic_2.png)](http://www.arcgis.com/apps/MapTour/?appid=d08167a71752468a84d8c56617aa3c7f)
-
-- Curated List of POIs
-	- [![Cape Cod](http://www.esri.com/~/media/Images/Content/landing-pages/story-maps/conservation-1)](http://gis-services.capecodcommission.org/apps/Buy_Fresh/TabbedStoryMap/index.html)
-
-- Comparing Two or More Maps
-
-These maps certainly meet ESRI's definition of a story map. In reality, by their definition, however, pretty much anything that goes through the Story Map platform would be a story map. Indeed, it appears that story map refers to a web map with multimedia content. And it's not necessarily that users are using the platform in ways it wasn't intended. This conflation of platform with story is a part of ESRI's documentation for creating story maps. In their quick guide to creating a story map suggest that the user ask "What are the essential components of your story? While we've seen that traditionally the essential components of story are setting, plot, characters, conflict, and theme or facts, causal relationships, and narrative sequence, ESRI suggests that these essential components include "maps, photos, videos, text." Indeed we're working with an entirely different understanding of what a story is!But where is the story?
-
-
-
-
-## How does ESRI present story maps? ##
-- Their answer to "What is a story map?"
-	> Story maps use geography as a means of organizing and presenting information. They tell the story of a place, event, issue, trend, or pattern in a geographic context. They combine interactive maps with other rich content—text, photos, video, and audio—within user experiences that are basic and intuitive.
-- Breaking down the parts of the definition
-	- Geography is the organizing structure
-		- This is what most maps are
-	- It puts information in a geographic context
-		- This addresses setting/where.
-	- It combines maps with other media for simple user-experience
-		- It allows for other media forms that add context that might not necessarily be spatial
+Now I do want to take a breather from what probably appears to be some pretty blatant ESRI bashing. I am not suggesting at all that the Story Map platform is bad, that anything created with isn't guided by a more traditional understanding of story is sub-par, or that ESRI's platform is the only one that is perhaps being a little cavalier with their notions of what a story is. Story Map is a good platform that makes it easy to make maps with rich content. If you're familiar with ESRI products, don't want to spend time working outside their ecosystem, or maybe don't have time or interest in programming it's powerful tool to have at your disposal. Also, having perused the ESRI's Story Map gallery, there are some beautiful maps that are informative, but that I would suggest lack much story to them. That doesn't invalidate their worth. Sometimes being informative is all you really need to be. And I stated earlier that I would be using ESRI as an entry point to help me address this question "Where's the story?" I think that ESRI's influence on the way we talk about GIS and mapping means that their jargon should probably be looked at more closely, especially when they start wandering into concepts such as story that are better practiced by a lot of other industries and trades.That said, there are other story mapping platforms, many of which appear to be modeled after the templates that ESRI has made, that I would suggest conceive of story in a similar manner to ESRI. 
 
 ## Why is ESRI's conception of story maps problematic ##
 - It can result in a story, but because it is centered on the map rather than story, it doesn't necessarily
@@ -125,3 +100,28 @@ These maps certainly meet ESRI's definition of a story map. In reality, by their
 ## Spare text ##
 ### Defining story ###
 Perhaps the first one listed here is the most all-encompassing and while seemingly vague, is quite revealing. Breaking down the definition into two parts. In the first we have "an account" and in the second we have "incidents or events." The second part points to some sort of action that has occurred. A story contains some activity and luckily there is an infinitesimal flurry of activity going on every every second in both the real world and in our imaginations. We have a lot of source material to work with! But how do we make sense of it all? What is important? That's where the first part of the definition comes in. We don't have THE account. We have AN account. A story is a a subjective arrangement of those "incidents and events." It requires an author who makes decisions about what events are used, how they are described, and how they are arranged. Indeed the lesser definitions - fiction, lie, falsehood - highlight this subjectivity as a key component of story. 
+
+### Looking at ESRI examples ###
+How does this play out? ESRI  categorizes their platform into three broad types templates: Sequential, Place-based Narratives, Curated List of POIs, and Comparing Two or More Maps. Quickly, I'm going to pull up one example from each template type and use them to help us see why the platform doesn't seem to be resulting in stories being told. I suggest we engage in some side-by-side evaluation of these examples  how these story maps evaluate as story maps under ESRI's definiton and a presence of story under Kosara's definition of story. 
+show some examples from storied to least storied [Story Map app list](http://storymaps.arcgis.com/en/app-list/ "Story Map app list")
+
+We can see more clearly what ESRI means by story map by looking at their story map templates. 
+
+- Sequential, Place-based Narratives
+	- [![Out of the office trip(NZ)](http://www.arcgis.com/sharing/content/items/d08167a71752468a84d8c56617aa3c7f/info/thumbnail/cover_pic_2.png)](http://www.arcgis.com/apps/MapTour/?appid=d08167a71752468a84d8c56617aa3c7f)
+
+- Curated List of POIs
+	- [![Cape Cod](http://www.esri.com/~/media/Images/Content/landing-pages/story-maps/conservation-1)](http://gis-services.capecodcommission.org/apps/Buy_Fresh/TabbedStoryMap/index.html)
+
+- Comparing Two or More Maps
+
+### How does ESRI present story maps? ###
+- Their answer to "What is a story map?"
+	> Story maps use geography as a means of organizing and presenting information. They tell the story of a place, event, issue, trend, or pattern in a geographic context. They combine interactive maps with other rich content—text, photos, video, and audio—within user experiences that are basic and intuitive.
+- Breaking down the parts of the definition
+	- Geography is the organizing structure
+		- This is what most maps are
+	- It puts information in a geographic context
+		- This addresses setting/where.
+	- It combines maps with other media for simple user-experience
+		- It allows for other media forms that add context that might not necessarily be spatial
