@@ -97,7 +97,10 @@ There are two things that are interesting here. First, Yau implies that informat
 	- [Twigg](http://storiesthroughdata.blogs.lincoln.ac.uk/2013/10/12/data-communicators-where-is-innovation-happening/)
 	> [P]eople reason through stories. Stories move people, give them a reason to believe or not, a reason to do something or not, to take this turn or that...Yet as a concept story jars with data communication because data are not stories. Data are cold hard facts. But, critically, data *have* story potential... 
 - It allows one to package information in a way that can easily be picked up and explained by someone else (Kosara & Mackinlay)
+	- Kosara & Mackinlay
 	> Stories are no only a good way to present data, they also work as a means of packaging information and knowledge in a way that is easy to pick up by another person.
+	- Krzywinski & Cairo
+	> [D]o not underestimate your colleagues' desire to be presented with a cogent exposition of your findings 
 - Adding narrative element helps the guide the audience to valid inferences or at least the message that was meant to be communicated (Diakopoulos; Citraro; Yau)
 	- Yau
 	> Your job as a data designer is to communicate what you know to your audience. They most likely didn't look at the data, so they might not see the same thing that you see if there's no explanation or setup.
@@ -114,7 +117,23 @@ There are two things that are interesting here. First, Yau implies that informat
 	> [A] story in visualization is a narration in which the designer **tries to instill an emotional component**, rather than relying just on the intrinsic interest of the information presented.     
  
 
-Krzywinski and Kosara 
+So the conversations around story telling offer us some compelling reasons to bringing a traditional understanding of story into our mapping work. But if we want to make story maps that are true to that more traditional understanding of story, how do we do it?
+
+## Bringing stories to story maps ##
+
+We need to do a few things:
+
+- Shake off some notions:
+	- content !=  story
+		- If we start with content as the standard for what a story is, then we're not guaranteed what is traditionally recognized as a story
+	- Platforms are tools, not storytellers
+		- [Stefaner](http://well-formed-data.net/archives/868/look-ma-no-story)
+		> Tools have no stories to them. Tools can reveal stories, help us tell stories, but they are neither the story itself nor the storyteller.
+		- Putting content through the platform tools may result in a story, but it's only because of the author's storytelling
+		- They could tell a story and create a story map without a platform   
+	- geography is the organizational structure of a story map
+- Use story as the organizational structure and recognize that the map is an equal partner with other media in supplementing/enhancing the story
+- Be open to influence from those with longer legacies in storytelling to help us tell better stories and make more effective story maps.
 
 ## How can we rethink story maps to insure they tell a story ##
 - Focus on story first!
