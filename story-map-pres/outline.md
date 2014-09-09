@@ -82,6 +82,19 @@ Now I do want to take a breather from what probably appears to be some pretty bl
 ## Who cares? ##
 By now I'm sure some of you are thinking I'm being a bit pedantic so far. Why does it even matter that we call it a story map? We could call these maps Bob, as long as these platforms can help you communicate the information to your audience that you need to convey, that's probably the most important thing. But I think we miss a great opportunity if we loosen this definition of story to the point where it's just content and information on a screen. I think we can learn some lessons from ongoing discussions in the data visualization field on then merits of engaging a more traditional understanding of story in the communication of information gleaned from data analysis. I know, we might want to think of maps as something special or different, but they do represent a type of data visualization. We use points, lines, polygons, and cells to visually represent the particular instances of and relations among observable phenomena in space. 
 
+## Why data visualization is thinking about story ##
+There's a lot of data out there. As both the quantitative and qualitative observations of the world continue to be stored on growing server farms and in databases the allure of the insights that such quantities of data might hold is tough to deny. But data alone don't tell us anything. They are just values, figures, observations sitting in a table. Nathan Yau, who runs the well-respected data visualization website FlowingData, writes: 
+
+> "[D]ata itself isn't all that interesting (to most people). It's the information that comes out of the data. People want to know what their data says, and if you help them, you're going to be in high demand." 
+
+There are two things that are interesting here. First, Yau implies that information, the result of highlighting and  interpreting data, is what is actually interesting. Second, there is demand for information. Data visualization works with that former to meet the latter. But as discussions on the use of story in data visualization seem to indicate, displaying information alone is not enough to cut through the clutter of media with which we're inundated everyday. Information, visualized or otherwise, doesn't immediately answer the question "Who cares?" Sure, we can pull information from data, but that still doesn't address why that information matters and, crucially, why it matters to the person consuming that information. The data visualization community has been discussing how story might help clarify questions of relevance.
+
+
+Robert Kosara has suggested that stories work to guide people through the information, making and connecting stops along the way so they can see why the information matters at all.
+
+Dino Citraro offers that using narrative can push people towards the over-arching message that the author intends to communicate. If the reader decides that they do care about the information being presented, adding a narrative can help insure that they receive the message that the author meant to convey.
+
+
 ## How can we rethink story maps to insure they tell a story ##
 - Focus on story first!
 - Recognize that maps don't tell stories, people do. Placing content in a geographic context only yields a story once someone can make the connections between that content
