@@ -87,27 +87,32 @@ There's a lot of data out there. As both the quantitative and qualitative observ
 
 > "[D]ata itself isn't all that interesting (to most people). It's the information that comes out of the data. People want to know what their data says, and if you help them, you're going to be in high demand." 
 
-There are two things that are interesting here. First, Yau implies that information, the result of highlighting and  interpreting data, is what is actually interesting. Second, there is demand for information. Data visualization works with that former to meet the latter. But as discussions on the use of story in data visualization seem to indicate, displaying information alone is not enough to cut through the clutter of media with which we're inundated everyday. Information, visualized or otherwise, doesn't immediately answer the question "Who cares?" Sure, we can pull information from data, but that still doesn't address why that information matters and, crucially, why it matters to the person consuming that information. The data visualization community has been discussing how story might help clarify questions of relevance.
+There are two things that are interesting here. First, Yau implies that information, the result of highlighting and  interpreting data, is what is actually interesting. Second, there is demand for information. Data visualization works with that former to meet the latter. But as discussions on the use of story in data visualization seem to indicate, displaying information alone is not enough to cut through the clutter of media with which we're inundated everyday. It seems that story has emerged as way of enhancing data visualizations that people will pay attention to. Why does story seem to work?
 
-- There's an impulse towards finding stories (Cherny; Cherny)
+- Data & information may not tell stories, but we use stories to reason through them (Cherny; Cherny; Twigg)
 	- [Cherny](http://blogger.ghostweather.com/2014/05/data-characters-in-search-of-author.html)
 	> Our brains look for stories and remember stories
 	- [Cherny](http://blogger.ghostweather.com/2014/03/implied-stories-and-data-vis.html)
 	> Even very simple stories, whatever the discourse form, rely on the reader filling in a lot of invisible holes. 
-- Data & information are not stories, but we use stories to reason through them (Twigg)
 	- [Twigg](http://storiesthroughdata.blogs.lincoln.ac.uk/2013/10/12/data-communicators-where-is-innovation-happening/)
 	> [P]eople reason through stories. Stories move people, give them a reason to believe or not, a reason to do something or not, to take this turn or that...Yet as a concept story jars with data communication because data are not stories. Data are cold hard facts. But, critically, data *have* story potential... 
-- Helps the audience come to valid inferences (Diakopoulos; Citraro; Cherny; Yau)
+- It allows one to package information in a way that can easily be picked up and explained by someone else (Kosara & Mackinlay)
+	> Stories are no only a good way to present data, they also work as a means of packaging information and knowledge in a way that is easy to pick up by another person.
+- Adding narrative element helps the guide the audience to valid inferences or at least the message that was meant to be communicated (Diakopoulos; Citraro; Yau)
 	- Yau
 	> Your job as a data designer is to communicate what you know to your audience. They most likely didn't look at the data, so they might not see the same thing that you see if there's no explanation or setup.
-	- [Cherny](http://blogger.ghostweather.com/2014/05/data-characters-in-search-of-author.html)
-	> Without a lot of supporting explanation (or performance, in the case of Hans Rosling), I don't believe a visualization can tell you the "whole story," in terms of who, what, when, where, why, and how; a visualization usually implies only a few of those, and our brains leap to conclusions the author of the visualization may or may not expect.
 	- [Diakopoulos](http://towcenter.org/blog/storytelling-with-data-visualization-context-is-king/)
 	> Text provides that vital bit of context layered over the data that helps the audience come to a valid interpretation of what it really means...In addition to adding an angle and story to the piece, such contextual journalism helps flesh out what the data means and guides the reader’s interpretation towards valid inferences from the data.
 	- [Citraro](http://www.periscopic.com/#/news/a-framework-for-talking-about-data-narration)
 	> Using data as a narrative device to guide visitors through insights is convenient, and it makes use of a familiar convention: conversation.   
-- "Storylistening trance" - or - engagement - emootional connection(Sturm; Kosara; Cairo)
-- Portability (Kosara & Mackinlay)
+- Stories can capture attention psychologically and emotionally (Sturm; Kosara; Cairo)
+	- Sturm
+	> [P]eople who listen to stories can undergo **a profound change in their experience of reality**. The normal, waking state of consciousness changes as the story takes on a new dimension; listeners seem to experience the story with remarkable immediacy, engaging in the story's plot and with the story's characters, and **they may enter an altered state of consciousness: a "storytelling trance."**
+	- [Kosara](http://eagereyes.org/blog/2014/stories-are-gateways-into-worlds)
+	> Stories are great vehicles to get people interested, to give them some orientation, and to **guide them far enough into a world** so that they can do their own exploration.
+	- [Cairo](http://www.thefunctionalart.com/2014/04/annotation-narrative-and-storytelling.html)
+	> [A] story in visualization is a narration in which the designer **tries to instill an emotional component**, rather than relying just on the intrinsic interest of the information presented.     
+ 
 
 Krzywinski and Kosara 
 
@@ -153,3 +158,7 @@ We can see more clearly what ESRI means by story map by looking at their story m
 		- This addresses setting/where.
 	- It combines maps with other media for simple user-experience
 		- It allows for other media forms that add context that might not necessarily be spatial
+
+### Data Viz thoughts ###
+- [Cherny](http://blogger.ghostweather.com/2014/05/data-characters-in-search-of-author.html)
+> Without a lot of supporting explanation (or performance, in the case of Hans Rosling), I don't believe a visualization can tell you the "whole story," in terms of who, what, when, where, why, and how; a visualization usually implies only a few of those, and our brains leap to conclusions the author of the visualization may or may not expect.
