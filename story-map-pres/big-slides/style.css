@@ -38,6 +38,13 @@ li {
 	line-height: 110%;
 }
 
+li.blackOut {
+  color: #111;
+}
+li.highlight {
+  color: #8dbd0c;
+}
+
 a {
   background: none;
   color: #34d0e7;
