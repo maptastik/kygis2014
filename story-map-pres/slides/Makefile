@@ -1,12 +1,2 @@
-SASSOPTS=--scss --style expanded
-
-default: generate
-
-generate:
-	sass --update ${SASSOPTS} .
-
-force:
-	sass --update ${SASSOPTS} --force .
-
-watch:
-	sass --watch  ${SASSOPTS} .
+big.quickstart.html: build/1 big.css build/2 big.js build/3
+	cat build/1 big.css build/2 big.js build/3 > big.quickstart.html
